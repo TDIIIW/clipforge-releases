@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="72" viewBox="0 0 280 72">
+    <path d="M8 8L36 2L64 8L70 36L64 64L36 70L8 64L2 36Z"
+          fill="none" stroke="#b6ff5a" stroke-width="2"/>
+    <path d="M18 22L50 36L18 50Z" fill="#b6ff5a"/>
+    <circle cx="62" cy="11" r="7" fill="#5ae0ff"/>
+    <text x="84" y="46" font-family="Syne,sans-serif" font-weight="800"
+          font-size="36" fill="#eaeaf5" letter-spacing="-2">ClipForge</text>
+</svg>
